@@ -1,4 +1,4 @@
-Address,Latitude,Longitude,business_location
+address,latitude,longitude,business_location
 2449 23rd St San Francisco,37.7543184,-122.404356,"(37.7543184, -122.404356)"
 909 Grant Ave San Francisco,37.7953322,-122.4066419,"(37.7953322, -122.4066419)"
 4516 Mission St San Francisco,37.725687,-122.434407,"(37.725687, -122.434407)"
